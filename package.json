@@ -1,0 +1,24 @@
+{
+  "name": "rdrdr",
+  "version": "1.0.0",
+  "description": "rdrdr",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antfriend/rdrdr.git"
+  },
+  "keywords": [
+    "rdr",
+    "describing",
+    "rdr"
+  ],
+  "author": "antfriend",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antfriend/rdrdr/issues"
+  },
+  "homepage": "https://github.com/antfriend/rdrdr#readme"
+}
